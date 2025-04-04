@@ -6,6 +6,8 @@ This work serves as a practice exercise for the beginner in QEC and stim.
 
 The goal is to use Stim (https://github.com/quantumlib/Stim) to reproduce the results in paper 'Correlated decoding of logical algorithms with transversal gates' (https://arxiv.org/abs/2403.03272)
 
+Far from completing. 
+
 We also refer to the code from 
 
 1. Hands-on quantum error correction with Google Quantum AI by Google Quantum AI in Coursera (https://www.coursera.org/learn/quantum-error-correction/home/module/1)
